@@ -20,7 +20,8 @@
         <activity android:name=".SmokerStatus" />
         <activity android:name=".Disclaimer" />
         <activity android:name=".Referral" />
-        <activity android:name=".Verification"></activity>
+        <activity android:name=".Verification" />
+        <activity android:name=".MyAccount"></activity>
     </application>
 
 </manifest>
