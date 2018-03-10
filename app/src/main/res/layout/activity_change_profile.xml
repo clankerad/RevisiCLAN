@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:background="#efe8ef"
-    tools:context="com.clan.clan.MyAccount">
+    tools:context="com.clan.clan.ChangeProfile">
 
     <ScrollView
         android:layout_width="match_parent"

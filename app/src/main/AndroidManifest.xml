@@ -21,7 +21,7 @@
         <activity android:name=".Disclaimer" />
         <activity android:name=".Referral" />
         <activity android:name=".Verification" />
-        <activity android:name=".MyAccount" />
+        <activity android:name=".ChangeProfile" />
         <activity android:name=".Home"></activity>
     </application>
 
